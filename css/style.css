@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,800');
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #333;
+}
+
+h1{
+  font-weight: bolder;
+  font-size: 56px;
+}
+
+p{
+  font-size: 18px;
+}
+
+.btn{
+  font-weight: 600;
+  font-size: 12px;
+  border-width: 1.5px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.info{
+  margin-top: 25%;
+  margin-left: 25%;
+}
+
+/*Sec-Cooling*/
+#sec-cooling{
+  background-color: #f3f3f3;
+}
+
+#sec-frame{
+  background-color: #f3f3f3;
+}
+
+#sec-galaxy{
+  margin-bottom: 5%;
+}
+
+footer{
+  background-color: #f3f3f3;
+  text-align: center;
+  padding: 10px;
+}
